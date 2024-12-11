@@ -13,7 +13,6 @@ public class BasePage {
         System.setProperty("webdriver.chrome.driver" , "drivers/chromedriver");
         driver = new ChromeDriver();
         driver.manage().window().maximize();
-
     }
 
     @AfterMethod

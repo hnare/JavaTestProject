@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-11T08:00:45 GMT" name="Test Suite" finished-at="2024-12-11T08:05:47 GMT" duration-ms="301375">
+    <groups>
+    </groups>
+    <test started-at="2024-12-11T08:00:45 GMT" name="Test" finished-at="2024-12-11T08:05:47 GMT" duration-ms="301375">
+      <class name="CarValuationTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:CarValuationTest@3d5c822d]" started-at="2024-12-11T08:00:45 GMT" name="setUp" finished-at="2024-12-11T08:00:53 GMT" duration-ms="7903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="compareCarValuation()[pri:0, instance:CarValuationTest@3d5c822d]" started-at="2024-12-11T08:00:53 GMT" name="compareCarValuation" finished-at="2024-12-11T08:05:46 GMT" duration-ms="293094" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compareCarValuation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:CarValuationTest@3d5c822d]" started-at="2024-12-11T08:05:46 GMT" name="tearDown" finished-at="2024-12-11T08:05:47 GMT" duration-ms="343" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- CarValuationTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Test Suite -->
+</testng-results>
